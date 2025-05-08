@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm an AI Engineer from Korea!
+# 👋 Hi, I'm an AI Engineer
 
 I'm an AI Engineer with a strong interest in bridging the gap between machine learning and real-world services.  
 From model development to deployment, I enjoy building scalable, data-driven systems that actually work in business environments.
