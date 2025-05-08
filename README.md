@@ -23,7 +23,7 @@ From model development to deployment, I enjoy building scalable, data-driven sys
   
 
 - **DataOps / MLOps**
-  - Data pipeline orchestration using `Spark`, `Kafka`, `RabbitMQ`
+  - Data pipeline orchestration using `Spark`, `Kafka`, `airflow`
   - Real-time & batch data flow design
   - Monitoring with `Prometheus` & distributed logging
 
