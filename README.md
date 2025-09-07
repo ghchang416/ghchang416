@@ -1,21 +1,20 @@
-# 👋 Hi, I'm an AI Engineer
+# Chang Gyeonghyun
 
-I'm an AI Engineer with a strong interest in bridging the gap between machine learning and real-world services.  
-From model development to deployment, I enjoy building scalable, data-driven systems that actually work in business environments.
-
----
-
-## 🧠 About Me
-
-- 🎓 4th year undergraduate in Software Engineering at Ajou University
-- 🏭 Former intern at **Korea Institute of Industrial Technology (KITECH)** (2025)  
-  → Participated in digital transformation of manufacturing processes by developing a digital thread platform  
-- 🌐 Currently based in **Korea**  
-- 💬 Languages: Korean (native), English (working proficiency)
+I am a data engineer who builds the bridge between massive data and intelligent AI services. I believe that the success of AI hinges on the quality and accessibility of its data foundation. With a strong passion for scalable data systems, I design and manage pipelines that transform vast streams of raw, real-time data into the high-quality fuel that powers machine learning models.
 
 ---
 
-## 🛠 What I Can Do
+## About Me
+
+- Completed the Hyundai Softeer 6th Gen program (Data Engineering Track)
+  → Awarded for Top Excellence
+- 4th year undergraduate in Software Engineering at Ajou University
+- Former intern at Korea Institute of Industrial Technology (KITECH) (2025)
+  → Participated in digital transformation of manufacturing processes by developing a digital thread platform
+
+---
+
+## What I Can Do
 
 - **AI & Machine Learning**
   - Model development using `PyTorch`
@@ -34,7 +33,7 @@ From model development to deployment, I enjoy building scalable, data-driven sys
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 > _Note: My proficiency varies across tools — from strong to basic usage depending on context._
 
@@ -66,11 +65,12 @@ From model development to deployment, I enjoy building scalable, data-driven sys
 
 ---
 
-## 🧪 Projects
+## Projects
 
-- ⚙ **Digital Thread Platform** – Built at KITECH during 2025 internship  
-- 🧾 **AI Behavior Detection System** – Infra + model + backend to detect abnormal behavior in thermal camera footage  
-- 🛠 **Barista Robot AI Vision** – Object detection + 3D localization to guide robot arm movements  
+- **Maintenance Quote Verification & Recommendation System** – Built a scalable data pipeline with Airflow&Spark to ETL and process large-scale data into a unified data mart.
+- **Digital Thread Platform** – Built at KITECH during 2025 internship
+- **AI Behavior Detection System** – Infra + model + backend to detect abnormal behavior in thermal camera footage
+- **Barista Robot AI Vision** – Object detection + 3D localization to guide robot arm movements
 
 > See [pinned repositories](#) for more!
 
